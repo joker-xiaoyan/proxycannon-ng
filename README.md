@@ -1,5 +1,5 @@
 # ProxyCannon-NG
-
+构建攻击僵尸网络
 >Thank you **Wild West Hackin' Fest** for your help and support in our community-driven hackathon!  We've created a on-demand proxy tool that leverages cloud environments giving a user the ability to source (all) your traffic from an endless supply of  cloud based IP address. Think of it as your own private TOR network for your redteam and pentest engagements. No more defenses throttling and blocking you!
 
 Hackathon sponsored by [Sprocket Security](https://www.sprocketsecurity.com) and hosted at [Wild West Hackin' Fest 2018](https://www.wildwesthackinfest.com)   
